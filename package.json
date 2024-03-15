@@ -18,6 +18,9 @@
     "@angular/platform-browser": "^17.2.0",
     "@angular/platform-browser-dynamic": "^17.2.0",
     "@angular/router": "^17.2.0",
+    "@tanstack/angular-query-devtools-experimental": "^5.27.8",
+    "@tanstack/angular-query-experimental": "^5.27.5",
+    "@tanstack/react-query": "^5.27.5",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
